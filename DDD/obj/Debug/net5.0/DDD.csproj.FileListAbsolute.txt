@@ -1,0 +1,16 @@
+D:\git\DDD\bin\Debug\net5.0\DDD.exe
+D:\git\DDD\bin\Debug\net5.0\DDD.deps.json
+D:\git\DDD\bin\Debug\net5.0\DDD.runtimeconfig.json
+D:\git\DDD\bin\Debug\net5.0\DDD.runtimeconfig.dev.json
+D:\git\DDD\bin\Debug\net5.0\DDD.dll
+D:\git\DDD\bin\Debug\net5.0\ref\DDD.dll
+D:\git\DDD\bin\Debug\net5.0\DDD.pdb
+D:\git\DDD\obj\Debug\net5.0\DDD.csprojAssemblyReference.cache
+D:\git\DDD\obj\Debug\net5.0\DDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\DDD\obj\Debug\net5.0\DDD.AssemblyInfoInputs.cache
+D:\git\DDD\obj\Debug\net5.0\DDD.AssemblyInfo.cs
+D:\git\DDD\obj\Debug\net5.0\DDD.csproj.CoreCompileInputs.cache
+D:\git\DDD\obj\Debug\net5.0\DDD.dll
+D:\git\DDD\obj\Debug\net5.0\ref\DDD.dll
+D:\git\DDD\obj\Debug\net5.0\DDD.pdb
+D:\git\DDD\obj\Debug\net5.0\DDD.genruntimeconfig.cache
